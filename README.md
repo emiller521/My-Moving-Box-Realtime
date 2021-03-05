@@ -18,6 +18,6 @@ It means you will update the position slowly:
       <html>
             <div id="my_box_realtime" style= "background-color: red; position: absolute; right: 70; bottom: 70; min-width: 100px; min-height: 100px"></div>
             <script type="text/javascript">
-               // YOUR CODE
+               **YOUR CODE**
             </script>
       </html>
